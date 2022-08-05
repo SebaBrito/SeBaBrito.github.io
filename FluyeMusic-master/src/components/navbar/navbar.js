@@ -29,14 +29,14 @@ const Navbar = () => {
         <div className="collapse navbar-collapse" id="navbarNav">
           <ul className="navbar-nav">
             <li className="nav-item">
-              <a className="nav-link active text-white" aria-current="page" href="http://127.0.0.1:5500/src/api/api.html">
+              <a className="nav-link active text-white" aria-current="page" href="http://127.0.0.1:3000/src/api/api.html">
                 <FaSearch />Busca tu musica
               </a>
             </li>
           </ul>
         </div>
         <div className='nav-button'>
-          <a href='http://127.0.0.1:5500/src/components/registrarse/registrarse.html'>
+          <a href='http://127.0.0.1:3000/src/components/registrarse/registrarse.html'>
             <button>
               <span></span>
               <span></span>
@@ -44,7 +44,7 @@ const Navbar = () => {
               <span></span> Registrate
             </button>
           </a>
-          <a href='http://127.0.0.1:5500/src/components/login/login.html'>
+          <a href='http://127.0.0.1:3000/src/components/login/login.html'>
             <button>
               <span></span>
               <span></span>
